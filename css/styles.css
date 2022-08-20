@@ -1,0 +1,72 @@
+.parte1 {background-color: black;
+    color: rgb(255,255,255);}
+    
+    .barra2Navegación {background-color: #F0A83E;
+    background-size: cover;
+    height: 50px;}
+    
+    .fa-solid{color: white}
+    
+    a {color: white;
+    text-decoration: none;}
+    
+    .parte2{background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    height: 600px;}
+    
+    h2{text-align: center;}
+    
+    span.come1{background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;}
+    
+    h3{text-align: center;
+    font-family: Arial, Helvetica, sans-serif}
+    
+    .come{color: white;
+    background-color: #F0A83E;}
+    
+    .parte3 {text-align: center;}
+    
+    h1{font-family: Arial, Helvetica, sans-serif;
+    color: rgb(31, 17, 17);
+    font-weight: bolder;}
+    
+    .productos{color:gray}
+    
+    .esp2{font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;}
+    
+    .esp1{color: #F0A83E;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;}
+    
+    .parte4{text-align: center;}
+    
+    p.insc{font-family: Arial, Helvetica, sans-serif;
+    color: rgb(31, 17, 17);
+    font-weight: bold;
+    font-size: 20px;}
+    
+    span.inscripcion{font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #3C2313;
+    border-radius: 10%;
+    }
+    
+    .accionr{color:white;
+    background-color: gray;
+    border-bottom: 10%;}
+    
+    .acciona{color:white;
+        background-color: #F0A83E;
+        border-bottom: 10%;}
+    
+    footer{background-color: #3C2313;}
+    
+    ul{color: white;
+    font-family:'Times New Roman', Times, serif;}
+    
+    .final{background-color: black;
+    text-align: center;
+    color: white;}
